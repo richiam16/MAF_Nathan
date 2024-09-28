@@ -10,3 +10,4 @@ bokeh
 biopython
 jupyterlab
 notebook
+ipywidgets

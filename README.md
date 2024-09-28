@@ -1,5 +1,5 @@
 ## Overview
-This repository contains three Jupyter notebooks related to the manuscript titled:
+This repository contains two Jupyter notebooks related to the manuscript titled:
 **"Genes required by Mycobacterium tuberculosis to survive transmission"** by Mishra et al.
 
 The notebooks cover two analyses:
@@ -55,8 +55,7 @@ To run the notebooks:
    - notebook or jupyterlab
 
 ## Notebooks Overview
-- `EDA_MAGECK.ipynb`: Exploratory data analysis of input pooled CRISPRi datasets processed with MAGECK.
-- `essentiality_counts_MAGECK.ipynb`: Generates the number of significant differences (NOSD) metric for each gene across all modeled stages of infection. 
+- `essentiality_counts_MAGECK.ipynb`: Generates the number of significant differences (NOSD) metric for each gene across all modeled stages of infection and related analyses.
 - `Hydrophilicity_IDRs_Glyince_Analysis.ipynb`: Analysis of hydrophilicity index and glycine content + Intrinsically disordered regions analysis.
 
 ## License
