@@ -18,7 +18,6 @@ To run the notebooks:
 - Python 3.8+
 - Jupyter Notebook or Google Colab
 - Required Libraries (install via `pip`):
-   bash
    pip install pandas tqdm numpy matplotlib seaborn umap-learn hvplot holoviews bokeh biopython
 
 ## Notebooks Overview
