@@ -8,3 +8,5 @@ hvplot
 holoviews
 bokeh
 biopython
+jupyterlab
+notebook
