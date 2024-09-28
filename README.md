@@ -21,9 +21,9 @@ To run the notebooks:
    pip install pandas tqdm numpy matplotlib seaborn umap-learn hvplot holoviews bokeh biopython
 
 ## Notebooks Overview
-- `notebook_1.ipynb`: Transmission survival genome analysis (CRISPRi results).
-- `notebook_2.ipynb`: Analysis of hydrophilicity index and glycine content.
-- `notebook_3.ipynb`: Intrinsically disordered regions analysis.
+- `EDA_MAGECK.ipynb`: Exploratory data analysis of input pooled CRISPRi datasets processed with MAGECK.
+- `essentiality_counts_MAGECK.ipynb`: Generates the number of significant differences (NOSD) metric for each gene across all modeled stages of infection. 
+- `Hydrophilicity_IDRs_Glyince_Analysis.ipynb`: Analysis of hydrophilicity index and glycine content + Intrinsically disordered regions analysis.
 
 ## License
 MIT License.
