@@ -1,4 +1,3 @@
-```markdown
 ## Overview
 This repository contains three Jupyter notebooks related to the manuscript titled:
 **"Genes required by Mycobacterium tuberculosis to survive transmission"** by Mishra et al.
@@ -10,6 +9,8 @@ The notebooks cover two analyses:
 ## How to Use
 To run the notebooks:
 1. Clone the repository:
+
+
    ```bash
    git clone https://github.com/richiam16/MAF_Nathan.git
    ```
@@ -59,4 +60,3 @@ To run the notebooks:
 
 ## License
 MIT License.
-```
