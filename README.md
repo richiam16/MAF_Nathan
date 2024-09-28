@@ -52,6 +52,7 @@ To run the notebooks:
    - holoviews
    - bokeh
    - biopython
+   - notebook or jupyterlab
 
 ## Notebooks Overview
 - `EDA_MAGECK.ipynb`: Exploratory data analysis of input pooled CRISPRi datasets processed with MAGECK.
