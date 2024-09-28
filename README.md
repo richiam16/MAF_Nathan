@@ -28,8 +28,8 @@ To run the notebooks:
 
    OR, if using conda for Biopython and other specific packages:
    ```bash
-   conda install pandas tqdm numpy matplotlib seaborn umap-learn hvplot holoviews bokeh biopython
-   ```
+   conda install pandas tqdm numpy matplotlib seaborn umap-learn hvplot holoviews bokeh biopython jupyterlab notebook ipywidgets
+      ```
 
 4. Open the notebooks in Jupyter:
    ```bash
