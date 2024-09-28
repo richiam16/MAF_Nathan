@@ -1,35 +1,37 @@
 # MAF_Nathan
 
+
 # Mycobacterium tuberculosis Transmission Survival Analysis
 
-This repository contains the code and analysis related to the manuscript titled:  
+## Overview
+This repository contains three Jupyter notebooks related to the manuscript titled:
 **"Genes required by Mycobacterium tuberculosis to survive transmission"** by Mishra et al.
 
-The code here is relevant to two main analyses:
-1. **Transmission Survival Genome of Mtb**: This section includes the analysis of pooled CRISPRi library results, generating the number of significant differences (NOSDs) counts for each stage of transmission.
-2. **Proteome Analysis**: This section analyzes the hydrophilicity index, glycine content, and the fraction of residues classified as intrinsically disordered regions across the Mtb proteome, exploring their relationship with essentiality counts.
+The notebooks cover two analyses:
+1. **Transmission Survival Genome of Mtb**: Pooled CRISPRi library results, generating number of significant differences (NOSD) counts.
+2. **Proteome Analysis**: Hydrophilicity index, glycine content, and intrinsic disorder regions analysis across the Mtb proteome.
 
+## How to Use
+To run the notebooks:
+1. Clone the repository:
+   git clone https://github.com/richiam16/MAF_Nathan.git
+
+2. Open the notebooks in Jupyter or Google Colab.
+3. Follow the documented steps in each notebook to reproduce the analyses.
 
 ## System Requirements
+- Python 3.8+
+- Jupyter Notebook or Google Colab
+- Required Libraries (install via `pip`):
+   bash
+   pip install pandas tqdm numpy matplotlib seaborn umap-learn hvplot holoviews bokeh biopython
 
-To run this code, the following software and libraries are required:
+## Notebooks Overview
+- `notebook_1.ipynb`: Transmission survival genome analysis (CRISPRi results).
+- `notebook_2.ipynb`: Analysis of hydrophilicity index and glycine content.
+- `notebook_3.ipynb`: Intrinsically disordered regions analysis.
 
-- **Operating System**: Linux (Ubuntu 20.04 or higher recommended)
-- **Python Version**: 3.8 or higher
-- **Required Libraries**:
-  - pandas
-  - tqdm
-  - numpy
-  - matplotlib
-  - seaborn
-  - umap-learn
-  - hvplot
-  - holoviews
-  - bokeh
-  - biopython (Bio.SeqUtils, Bio.SeqIO)
-
-For installation, you can use `pip`:
-```bash
-pip install pandas tqdm numpy matplotlib seaborn umap-learn hvplot holoviews bokeh biopython
+## License
+MIT License.
 
 
