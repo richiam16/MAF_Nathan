@@ -11,3 +11,4 @@ biopython
 jupyterlab
 notebook
 ipywidgets
+openpyxl
