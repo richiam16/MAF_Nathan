@@ -1,8 +1,3 @@
-# MAF_Nathan
-
-
-# Mycobacterium tuberculosis Transmission Survival Analysis
-
 ## Overview
 This repository contains three Jupyter notebooks related to the manuscript titled:
 **"Genes required by Mycobacterium tuberculosis to survive transmission"** by Mishra et al.
