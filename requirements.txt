@@ -1,0 +1,10 @@
+pandas
+tqdm
+numpy
+matplotlib
+seaborn
+umap-learn
+hvplot
+holoviews
+bokeh
+biopython
